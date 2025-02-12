@@ -2,6 +2,12 @@
 
 Simple Qt-based timer app with system tray integration and desktop notifications.
 
+<div style="text-align: center;"><br/><br/>
+
+![Ghemx via Fitbit Sense 2](/images/ghemx_linux_mint_213_kde.png)
+
+</div><br/><br/>
+
 ## Features
 - Start, stop, and reset the timer.
 - Save and load timer configurations.
@@ -36,7 +42,15 @@ Arch Linux:
 2. ```./Ghemx```
 
 
-Optional: Install KDE Connect for wearable and or mobile notifications
+## Optional
+
+Install 🔗 [KDE Connect](https://kdeconnect.kde.org/download.html "KDEConnect.kde.org | Download") for wearable and or mobile notifications
+
+<div style="text-align: center;"><br/><br/>
+
+![Ghemx via Fitbit Sense 2](/images/ghemx_notif_fitbit_sense_2_2025.jpg)
+
+</div><br/><br/>
 
 ## GhemxDS
 
