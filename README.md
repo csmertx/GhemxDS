@@ -13,6 +13,7 @@ Simple Qt-based timer app with system tray integration and desktop notifications
 - Save and load timer configurations.
 - Toggle between light and dark themes.
 - Desktop notifications when the timer ends.
+- Resides in the system tray.
 
 ## Dependencies
 - Qt 5
