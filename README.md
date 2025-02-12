@@ -4,7 +4,7 @@ Simple Qt-based timer app with system tray integration and desktop notifications
 
 <div style="text-align: center;"><br/><br/>
 
-![Ghemx via Fitbit Sense 2](/images/ghemx_linux_mint_213_kde.png)
+<img src="/images/ghemx_linux_mint_213_kde.png"/>
 
 </div><br/><br/>
 
@@ -48,7 +48,7 @@ Install 🔗 [KDE Connect](https://kdeconnect.kde.org/download.html "KDEConnect.
 
 <div style="text-align: center;"><br/><br/>
 
-![Ghemx via Fitbit Sense 2](/images/ghemx_notif_fitbit_sense_2_2025.jpg)
+<img src="/images/ghemx_notif_fitbit_sense_2_2025.jpg"/>
 
 </div><br/><br/>
 
