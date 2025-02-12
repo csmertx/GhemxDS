@@ -42,7 +42,7 @@ Optional: Install KDE Connect for wearable and or mobile notifications
 
 Bash script (CLI) egg timer 🔗 [ghemx](https://github.com/csmertx/ghemx "Github.com \ csmertx \ ghemx") I wrote several years ago.
 
-The DS attributes DeepSeek for the C++ code generated over the course of three days and five separate chats.
+The DS attributes DeepSeek for the C++ code generated over the course of 3 days and 5 separate chats.
 
 
 ## Help Menu via F1
